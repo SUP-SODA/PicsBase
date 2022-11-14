@@ -1,2 +1,2 @@
 # PicsBase
-ReactJS web application,A one stop place for your wallpaper neeeds.
+Web application for all your wallpaper needs.
